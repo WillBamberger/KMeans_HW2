@@ -8,7 +8,7 @@
 ## To Run:
 ### run the command 'python3 -i hw2.py' in a terminal from the directory containing the hw2.py file
 
-## Final Result
+## Final Result:
 ### The best K value was 4, and our best accuracy was 100%.
 
 ![title](/confusion_matrix.png)
